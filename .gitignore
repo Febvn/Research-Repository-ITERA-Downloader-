@@ -1,0 +1,13 @@
+# Python & Virtual Env
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded files & temporary scratch
+*.pdf
+*.html
+*.htm
+*.json
+*.py
+*.txt
+Repository Institut teknologi Sumatera_files/
